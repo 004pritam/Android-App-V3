@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Recycler View</string>
+    <string-array name="pets">
+        <item>Cat</item>
+        <item>Dog</item>
+        <item>Horse</item>
+        <item>Tiger</item>
+        <item>Lion</item>
+        <item>Sparrow</item>
+        <item>panda</item>
+        <item>bull</item>
+        <item>cow</item>
+
+
+    </string-array>
+    <string-array name="descripription">
+        <item>cute</item>
+        <item>harsh</item>
+        <item>strong</item>
+        <item>ksdf</item>
+        <item>dgd</item>
+        <item>erthd</item>
+        <item>sff</item>
+        <item>Sparradfsfsow</item>
+        <item>Sparsfsfsrow</item>
+
+    </string-array>
+</resources>
